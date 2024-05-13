@@ -1,0 +1,1 @@
+{"minDisparity": 16, "numDisparities": 64, "blockSize": 10, "P1": 2400, "P2": 9600, "disp12MaxDiff": 3, "preFilterCap": 15, "uniquenessRatio": 3, "speckleWindowSize": 100, "speckleRange": 32, "mode": 2, "wsl_sigma": 1.3, "wsl_lmbda": 7346}
